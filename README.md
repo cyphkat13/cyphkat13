@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cyphkat13
+- 👀 I’m interested in bridging my knowledge of horses and data
+- 🌱 I’m currently learning data analytics; SQL and Tableau
+- 📫 How to reach me https://www.linkedin.com/in/katlyncyphers/
